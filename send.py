@@ -1,3 +1,6 @@
+#
+#GNG I SADLY DELETED THE PYTHON FILE BUT STILL HAVE THE .exe file for send.py but I tried recreating it
+#
 import socket,sys
 
 prtcls = ['tcp','udp']
